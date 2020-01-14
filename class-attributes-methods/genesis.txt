@@ -1,0 +1,11 @@
+Dougie's Genesis
+
+isClean: false
+color: "silver"
+currentSpeed: 120
+trunkItems: ['jumper cables', 'vehicle jack', 'first aid kit']
+
+paintExterior: color = 'red'
+stop: currentSpeed = 0
+addTrunkItem: trunkItems = ['jumper cables', 'vehicle jack', 'first aid kit', 'suitcase']
+washCar: isClean = true
