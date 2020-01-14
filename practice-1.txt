@@ -1,0 +1,28 @@
+Bathe Dog
+
+1. Purchase Materials
+  1.1 Go to Petsmart
+    1.1.1 Purchase shampoo
+    1.1.2 Purchase teeth cleaner
+  1.2 Bring items home
+    1.2.1 Place shampoo in bathroom
+    1.2.2 Place teeth cleaner in bathroom
+    1.2.3 Bring towel into bathroom
+2. Wash Dog
+  2.1 Bring Dog into bathroom
+    2.1.1 Sit dog in bath tub
+    2.1.2 Wet fur with water
+    2.1.3 Grab shampoo
+    2.1.4 Scrub shampoo into fur
+    2.1.5 Rinse shampoo off of Dog
+3. Dry Dog
+  3.1 Get towel
+    3.1.1 Rub dog with towel until it is no longer dripping
+    3.1.2 Bring dog out of bathtub
+    3.1.3 Blow dry dog if necessary
+4. Finish
+  4.1 Clean dogs teeth
+    4.1.1 Grab teeth cleaner
+    4.1.2 Grab toothbrush
+    4.1.3 Brush dogs teeth with cleaner
+  4.2 Let dog go
