@@ -1,0 +1,13 @@
+class Car
+
+--ATTRIBUTES--
+isClean (boolean)
+color (string)
+currentSpeed (integer)
+trunkItems (array)
+
+--METHODS--
+paintExterior (modify the color attribute)
+stop (set currentSpeed to 0)
+addTrunkItem (adds new item to the trunkItems attribute)
+washCar (set isClean to true)
