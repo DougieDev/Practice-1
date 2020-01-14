@@ -1,0 +1,13 @@
+class Phone
+
+--ATTRIBUTES--
+caseColor (string)
+connectionType (string)
+isOn (boolean)
+contacts (array)
+
+--METHODS--
+changeCase (modify the caseColor attribute)
+changeConnection (modify the connectionType attribute)
+turnOff (sets isOn to false)
+addContact (modify the contacts attribute)

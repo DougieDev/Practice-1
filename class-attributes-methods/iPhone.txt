@@ -1,0 +1,11 @@
+Dougies iPhone
+
+caseColor: "white"
+connectionType: "data"
+isOn: true
+contacts: ['Mom', 'Dad', 'Shaq']
+
+changeCase: caseColor = "black"
+changeConnection: connectionType = "wifi"
+turnOff: isOn = false
+addContact: ['Mom', 'Dad', 'Shaq', 'JayZ']
